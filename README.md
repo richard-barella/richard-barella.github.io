@@ -61,8 +61,30 @@ _June 2015 - Aug 2015_
 - "Smart Grid Line Event Classification Using Supervised Learning Over PMU Data Streams" 6th International Green and Sustainable Computing Conference, 2015
 
 **_Personal Projects_**
-- MyFinCast - Vue/Firebase Budgeting app with real-time bank data using Plaid API _(Feb 2021 - Present)_
-- [codingwithrick.com](https://codingwithricky.com) - Statically-generated Hexo Blog with coding tutorials _(Aug 2019 - Present)_
-- [ppr-show.web.app](https://ppr-show.web.app) - Firebase app for writing custom web pages with WYSIWYG text editor _(Sept 2020)_
-- Lunar Lander - Double-DQN Reinforcement Learning with Keras in OpenAIGym simulation _(Oct 2020)_
-- [Quadart](https://github.com/ribab/quadart) - Python CLI and module for generating art from photos using Wand and ImageIO _(Aug 2019)_
+<table>
+  <tr>
+    <td>MyFinCast</td>
+    <td>Vue/Firebase Budgeting app with real-time bank data using Plaid API</td>
+    <td><i>Feb 2021 -<br>Present</i></td>
+  </tr>
+  <tr>
+    <td><a href="https://codingwithricky.com">codingwithricky.com</a></td>>
+    <td>Statically-generated Hexo Blog with coding tutorials</td>
+    <td><i>Aug 2019 -<br>Present</i></td>
+  </tr>
+  <tr>
+    <td><a href="https://ppr-show.web.app">ppr-show.web.app</a></td>
+    <td>Firebase app for writing custom web pages with WYSIWYG text editor</td>
+    <td><i>Sept 2020</i></td>
+  </tr>
+  <tr>
+    <td>Lunar Lander</td>
+    <td>Double-DQN Reinforcement Learning with Keras in OpenAIGym simulation</td>
+    <td><i>Oct 2020</i></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ribab/quadart">Quadart</a></td>
+    <td>Python CLI and module for generating art from photos using Wand and ImageIO</td>
+    <td>Aug 2019</td>
+  </tr>
+</table>
