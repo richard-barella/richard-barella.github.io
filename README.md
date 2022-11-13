@@ -21,11 +21,22 @@
 
 ## Education
 <hr />
-**Washington State University** B.S. in Computer Science, B.S. in Electrical Engineering _(Aug 2012 - May 2016)_
 
-**Lower Columbia College** AS-T in Computer Science _(Aug 2010 - May 2012)_
+<table>
+  <tr>
+    <td><b>Washington State University</b></td>
+    <td>B.S. in Computer Science<br>B.S. in Electrical Engineering</td>
+    <td><i>Aug 2012 - May 2016</i></td>
+  </tr>
+  <tr>
+    <td><b>Lower Columbia College</b></td>
+    <td>AS-T in Computer Science</td>
+    <td><i>Aug 2010 - May 2012</i></td>
+  </tr>
+</table>
 
 ## Experience
+<hr />
 
 ### Intel - Software Engineer
 _June 2016 - Present_
