@@ -2,8 +2,17 @@
 ---
 @import "{{ site.theme }}";
 header {
+  .subtitle {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
   img {
     border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
   }
   p {
     text-align: center;
