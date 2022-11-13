@@ -1,4 +1,5 @@
 ## Skills
+<hr />
 <table>
   <tr>
     <td>Coding Languages</td>
@@ -19,6 +20,7 @@
 </table>
 
 ## Education
+<hr />
 **Washington State University** B.S. in Computer Science, B.S. in Electrical Engineering _(Aug 2012 - May 2016)_
 
 **Lower Columbia College** AS-T in Computer Science _(Aug 2010 - May 2012)_
