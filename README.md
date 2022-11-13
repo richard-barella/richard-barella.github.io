@@ -69,7 +69,7 @@ _June 2015 - Aug 2015_
     <td><i>Feb 2021 -<br>Present</i></td>
   </tr>
   <tr>
-    <td><a href="https://codingwithricky.com">codingwithricky.com</a></td>>
+    <td><a href="https://codingwithricky.com">codingwithricky.com</a></td>
     <td>Statically-generated Hexo Blog with coding tutorials</td>
     <td><i>Aug 2019 -<br>Present</i></td>
   </tr>
