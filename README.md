@@ -66,12 +66,12 @@ _June 2015 - Aug 2015_
   <tr>
     <td>MyFinCast</td>
     <td>Vue/Firebase Budgeting app with real-time bank data using Plaid API</td>
-    <td><i>Feb 2021 -<br>Present</i></td>
+    <td><i>Feb&nbsp;2021<br>-&nbsp;Present</i></td>
   </tr>
   <tr>
     <td><a href="https://codingwithricky.com">codingwithricky.com</a></td>
     <td>Statically-generated Hexo Blog with coding tutorials</td>
-    <td><i>Aug 2019 -<br>Present</i></td>
+    <td><i>Aug&nbsp;2019<br>-&nbsp;Present</i></td>
   </tr>
   <tr>
     <td><a href="https://ppr-show.web.app">ppr-show.web.app</a></td>
