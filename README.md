@@ -24,12 +24,12 @@
 
 <table>
   <tr>
-    <td><b>Washington State University</b><br>B.S. in Computer Science, B.S. in Electrical Engineering</td>
-    <td><i>Aug 2012 - May 2016</i></td>
+    <td><b>Washington State University</b><br>B.S. in Computer Science<br>B.S. in Electrical Engineering</td>
+    <td><i>Aug 2012 -<br>May 2016</i></td>
   </tr>
   <tr>
     <td><b>Lower Columbia College</b><br>AS-T in Computer Science</td>
-    <td><i>Aug 2010 - May 2012</i></td>
+    <td><i>Aug 2010 -<br>May 2012</i></td>
   </tr>
 </table>
 
