@@ -2,6 +2,7 @@
 ---
 @import "{{ site.theme }}";
 header {
+  padding: 0;
   .subtitle {
     text-align: center;
   }
