@@ -61,6 +61,7 @@ _June 2015 - Aug 2015_
 - "Smart Grid Line Event Classification Using Supervised Learning Over PMU Data Streams" 6th International Green and Sustainable Computing Conference, 2015
 
 **_Personal Projects_**
+
 <table>
   <tr>
     <td>MyFinCast</td>
