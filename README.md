@@ -42,8 +42,8 @@ _June 2015 - Aug 2015_
   > Improved production efficiency throughout the company by preventing false alarms
 
 ### Washington State University - Undergraduate Research Assistant
-> Sponsored by Bonneville Power Administration
 _June 2014 - Aug 2016_
+> Sponsored by Bonneville Power Administration
 - Used Machine Learning & Apache Spark to detect powerline faults on 10TB of data with **99.5% accuracy**
 
 **_Research Publications_**
