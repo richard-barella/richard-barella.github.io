@@ -76,16 +76,16 @@ _June 2015 - Aug 2015_
   <tr>
     <td><a href="https://ppr-show.web.app">ppr-show.web.app</a></td>
     <td>Firebase app for writing custom web pages with WYSIWYG text editor</td>
-    <td><i>Sept 2020</i></td>
+    <td><i>Sept&nbsp;2020</i></td>
   </tr>
   <tr>
     <td>Lunar Lander</td>
     <td>Double-DQN Reinforcement Learning with Keras in OpenAIGym simulation</td>
-    <td><i>Oct 2020</i></td>
+    <td><i>Oct&nbsp;2020</i></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ribab/quadart">Quadart</a></td>
     <td>Python CLI and module for generating art from photos using Wand and ImageIO</td>
-    <td>Aug 2019</td>
+    <td>Aug&nbsp;2019</td>
   </tr>
 </table>
