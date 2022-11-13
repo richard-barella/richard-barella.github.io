@@ -1,10 +1,22 @@
 ## Skills
-|   |   |
-|---|---|
-| Coding Languages | Python, Javascript, Java, C++, C, Groovy, Shell Scripting |
-| Web Development | Django, Flask, Firebase, Vue.js, React.js, Node.js, Bootstrap, Plotly Dash |
-| Data Engineering | ElasticSearch, PostgreSQL, MongoDB, Matplotlib, Plotly, Scikit-learn, Jupyter |
-| DevOps | Docker, Jenkins, GitHub Actions, Pytest, Artifactory, Twine |
+<table>
+  <tr>
+    <td>Coding Languages</td>
+    <td>Python, Javascript, Java, C++, C, Groovy, Shell Scripting</td>
+  </tr>
+  <tr>
+    <td>Web Development</td>
+    <td>Django, Flask, Firebase, Vue.js, React.js, Node.js, Bootstrap, Plotly Dash</td>
+  </tr>
+  <tr>
+    <td>Data Engineering</td>
+    <td>ElasticSearch, PostgreSQL, MongoDB, Matplotlib, Plotly, Scikit-learn, Jupyter</td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Docker, Jenkins, GitHub Actions, Pytest, Artifactory, Twine</td>
+  </tr>
+</table>
 
 ## Education
 **Washington State University** B.S. in Computer Science, B.S. in Electrical Engineering _(Aug 2012 - May 2016)_
