@@ -1,4 +1,6 @@
 ## Skills
+|   |   |
+|---|---|
 | Coding Languages | Python, Javascript, Java, C++, C, Groovy, Shell Scripting |
 | Web Development | Django, Flask, Firebase, Vue.js, React.js, Node.js, Bootstrap, Plotly Dash |
 | Data Engineering | ElasticSearch, PostgreSQL, MongoDB, Matplotlib, Plotly, Scikit-learn, Jupyter |
